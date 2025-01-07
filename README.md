@@ -29,7 +29,7 @@ This project, conducted by [Weber Lin](https://github.com/xswzaq44321) and I, fo
 Pthread Implementation: Parallelizing dynamic programming computations with threads to distribute workloads.
 
 The optimizations achieved substantial speed improvements, reducing execution times from 73.30 seconds to 7.10 seconds for large test cases. The project demonstrates effective use of modern parallel programming techniques to solve computationally intensive problems. 
-Additional details can be found in [this repository]([https://github.com/chauuyun/Final-Project-Dynamic-Programming-Minimum-Cost-to-Cut-a-Stick](https://github.com/chauuyun/NTHU-Parallel-Programming-2024-Fall/tree/main/Final%20Project%20Dynamic%20Programming%20Minimum%20Cost%20to%20Cut%20a%20Stick).
+Additional details can be found in [this repository](https://github.com/chauuyun/NTHU-Parallel-Programming-2024-Fall/tree/main/Final%20Project%20Dynamic%20Programming%20Minimum%20Cost%20to%20Cut%20a%20Stick).
 
 ## Grade
 
