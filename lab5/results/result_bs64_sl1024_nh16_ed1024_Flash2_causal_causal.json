@@ -1,0 +1,15 @@
+{
+  "forward": {
+    "time(s)": 0.004303819127380848,
+    "FLOPS(TFLOPs/s)": 31.934184361423316
+  },
+  "backward": {
+    "time(s)": 0.012486304466923078,
+    "FLOPS(TFLOPs/s)": 27.517940523571944
+  },
+  "forward_backward": {
+    "time(s)": 0.016790123594303926,
+    "FLOPS(TFLOPs/s)": 28.64995808102284
+  },
+  "peak_memory_usage(MB)": 1288.00048828125
+}
